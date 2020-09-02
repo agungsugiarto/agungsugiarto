@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on maintain my packages for CodeIgniter 4
 - 🌱 I’m love learning everything
-- 🥅 My Goals: Contribute more to Open Source projects
+- 🥅 My Goals: Create more to Open Source projects
 - ⚡ Fun fact: I like traveling
 
 ### Connect with me:
